@@ -109,6 +109,7 @@
     pkgs.gitkraken
     pkgs.neofetch
     pkgs.ripgrep
+    pkgs.sl
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
