@@ -107,7 +107,6 @@
     pkgs.lf
     pkgs.git
     pkgs.gitkraken
-    pkgs.neofetch
     pkgs.ripgrep
   ];
 
